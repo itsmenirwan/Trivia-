@@ -10,7 +10,7 @@ import networking
 
 logging.basicConfig(level=logging.INFO)
 client = discord.Client()
-bot_channel = discord.Object(id='684680518679265310')
+bot_channel = discord.Object(id='696611589876482068')
 
 
 @client.event
